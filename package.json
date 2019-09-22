@@ -1,0 +1,11 @@
+{
+  "name": "grapheni",
+  "version": "1.0.1",
+  "description": "A GraphQL Query Builder from Node.js and web frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Mallmann",
+  "license": "ISC"
+}
